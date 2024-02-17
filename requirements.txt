@@ -50,7 +50,6 @@ scikit-image
 scikit-learn
 scipy
 six
-sklearn
 sqlparse
 tensorboard
 tensorboard-data-server
